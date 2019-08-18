@@ -26,7 +26,7 @@ date  :18.08.2019
 
 Một số chức năng đặc sắc của Quán Trọ Long Môn TLBB: 
 
-###📢📢Giới thiệu về Server Quán Trọ 01:
+###📢📢Giới thiệu về Server Tửu lầu:
 
 🍀Tỉ lệ Exp: x6 ( sau đua top sẽ x12)
 
