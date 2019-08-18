@@ -1,4 +1,4 @@
-title :🔔🔔Khai mở Máy chủ Tửu Lầu🔔🔔⏰Thời gian OPEN: 19h Ngày 25/08/2019
+title :🔔🔔Khai mở Máy chủ Tửu Lầu🔔🔔
 image :https://i.imgur.com/uhFVKT2.jpg
 date  :18.08.2019
 
