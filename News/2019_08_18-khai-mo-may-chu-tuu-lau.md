@@ -101,7 +101,7 @@ Một số chức năng đặc sắc của Quán Trọ Long Môn TLBB:
 
 ###🎉🎉Sự kiện " Nhất Đại Phú Gia" :
 
-⏰Thời gian diễn ra: Từ Ngày 25/08 đến 24h 01/08/2019
+⏰Thời gian diễn ra: Từ Ngày 31/08 đến 24h 06/09/2019
 
 ![](https://i.imgur.com/U0DEf1f.png)
 
