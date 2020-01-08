@@ -155,12 +155,16 @@ Lưu ý: Chỉ 1 bang nhận được giải
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-☑Trang chủ: tl.quantrolongmon.com/
+### ☑Trang chủ: tl.quantrolongmon.com/
 
-☑Đăng Ký: id.quantrolongmon.com/register/
 
-☑Fangpage: fb.com/quantrolongmon/
+### ☑Đăng Ký: id.quantrolongmon.com/register/
 
-☑Groups: fb.com/groups/tlbbquantrolongmon/
 
-☑Tải Game: tl.quantrolongmon.com/Download/
+### ☑Fangpage: fb.com/quantrolongmon/
+
+
+### ☑Groups: fb.com/groups/tlbbquantrolongmon/
+
+
+### ☑Tải Game: tl.quantrolongmon.com/Download/
