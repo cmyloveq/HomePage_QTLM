@@ -16,7 +16,9 @@ date  :08.01.2020
 
 ![](https://i.imgur.com/GBVpGKi.png)
 
-♨️Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai. Nếu không chia sẻ được tag ít nhất 15 bạn
+♨️Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công
+
+khai. Nếu không chia sẻ được tag ít nhất 15 bạn
 
 
 ♨️Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
