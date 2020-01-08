@@ -129,9 +129,13 @@ Nội Dung: 100 nhân vật đầu tiên nhanh tay click vào NPC tân thủ s�
 
 ![](https://i.imgur.com/U0DEf1f.png)
 
-💎Top 1: Trùng Lâu Liên + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (Vĩnh Viễn) + pét 3k tư chất ( chỉ 1 dòng 3000) + 15 vải bông, bí ngân, tinh thiết (cấp 3)
+💎Top 1: Trùng Lâu Liên + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (Vĩnh Viễn) + pét 3k tư chất ( chỉ 1 dòng 3000) +
 
-💎Top 2: Trùng lâu Triệu/ Quy + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (Vĩnh Viễn ) + pet 3k tư chất ( chỉ 1 dòng 3000) + 10 vải bông, bí ngân, tinh thiết (cấp 3)
+15 vải bông, bí ngân, tinh thiết (cấp 3)
+
+💎Top 2: Trùng lâu Triệu/ Quy + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (Vĩnh Viễn ) + pet 3k tư chất ( chỉ 1 dòng
+
+3000) + 10 vải bông, bí ngân, tinh thiết (cấp 3)
 
 💎Top 3: Trùng lâu Triệu/ Quy + 1 áo thời trang có thuộc tính ( Vĩnh Viễn ) .+ 5 vải bông, bí ngân, tinh thiết (cấp 3)
 
